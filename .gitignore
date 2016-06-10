@@ -1,0 +1,28 @@
+*.txt
+*.notes
+*.discussion
+*.index
+*.cache
+*.fileextension
+*.xkcd
+*.com
+*.net
+# Look, can't be too safe, right?
+*.skynet
+*.org
+*.vimrc
+*.gvimrc
+*.emacs.d
+*.atom.config
+*.nanorc
+*.%gconf.xml
+*.ed
+*.cat
+*.dog
+*.hamster
+*.hamsterball
+*.tamagotchi
+*.robothamster
+*.snake
+# Just in case.
+*.skynet
