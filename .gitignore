@@ -26,3 +26,7 @@
 *.snake
 # Just in case.
 *.skynet
+*.butterfly
+*.frog
+*.cosmicrays
+*.universalconstants
