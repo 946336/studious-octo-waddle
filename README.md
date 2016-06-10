@@ -1,2 +1,2 @@
-# studious-octo-waddle
-Inspired by https://xkcd.com/1692
+# [studious-octo-waddle](https://xkcd.com/1692)
+Inspired by [this](https://xkcd.com/1692)
