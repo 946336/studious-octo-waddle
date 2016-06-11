@@ -1,0 +1,6 @@
+.\" Manpage for blorp(501)(c)(3) (See xkcd 1692)
+.TH man 501.c.3 "15 April 2016" "TAX EXEMPT, BABY!" "blorp"
+.SH NAME
+\fBblorp\fR
+.SH SEE ALSO
+blerp(1), blerp(3), blerp(6), blirb(8), blarb(51)
